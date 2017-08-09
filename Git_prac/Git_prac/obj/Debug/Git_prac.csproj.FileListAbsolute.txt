@@ -1,1 +1,2 @@
 C:\Users\Student\Desktop\GitPrac\Git_prac\Git_prac\bin\Debug\Git_prac.exe.config
+C:\Users\Student\Desktop\Git\Practical_git\Git_prac\Git_prac\bin\Debug\Git_prac.exe.config
